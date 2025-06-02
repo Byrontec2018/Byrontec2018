@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Byrontec2018
+- 👋 Hi, I’m Stefano D'Incà from Milan, Italy
 - 👀 I’m interested in front-end, back-end and full stack development.
 - 🌱 I’m currently learning Python, Django, Java and Spring.
 - 💞️ I’m looking to collaborate on website, web app and mobile app development.
