@@ -114,4 +114,11 @@ Piattaforma gestionale risorse umane per PMI (dipendenti, presenze, ferie)
 
 ---
 
+## 📊 Activity
+
+![](https://github-readme-streak-stats.herokuapp.com/? user=Byrontec2018&theme=default&hide_border=true)
+![](https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=Byrontec2018&theme=default)
+
+---
+
 ⭐️ From [Byrontec2018](https://github.com/Byrontec2018) | *Building scalable, secure, and maintainable software*
